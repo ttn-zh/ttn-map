@@ -1,8 +1,3 @@
-## Map of the Things Network Zürich
+## REPO MOVED
 
-[Map link](http://vasile.github.io/ttn-map/)
-
-## What is TTN ?
-http://thethingsnetwork.org/c/zurich
-
-
+GH Pages don't handle repositories move, therefore we have a new location: [REPO LINK](https://github.com/ttn-zh/ttn-zurich-map)
